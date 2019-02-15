@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background: #ffffff;
+  background: #fff;
   font-size: 15px;
   font-weight: 400;
   font-family: 'Atma', cursive;
@@ -278,12 +278,12 @@ p {
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
-  color: #000000;
+  color: #ffffff;
 }
 
 /* STYLE RELATED TO FIRST HEADER SECTION WITH TJBOT IMG */
 .three-steps {
-  font-family: 'Atma'cursive;
+  font-family: 'Atma', cursive;
   text-align: center;
 }
 
@@ -424,7 +424,7 @@ p {
 
 .arduinoshop {
   width: auto;
-  height: 310px;
+  height: 270px;
 }
 
 .arduinoshop .overlay-box {
